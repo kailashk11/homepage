@@ -163,8 +163,8 @@
 .offer{
   margin-top: 150px;
   text-align: center;
-  /* padding-left: 150px;
-  padding-right: 150px; */
+   padding-left: 150px;
+  padding-right: 150px; 
 }
 .img{
   padding: 30px;
@@ -306,8 +306,8 @@ border: 2px solid black;
 
 .testimonial-sec {
     text-align: center;
-   /* padding-left: 150px;
-   padding-right: 150px; */
+    padding-left: 150px;
+   padding-right: 150px; 
 
 }
 .text-align{

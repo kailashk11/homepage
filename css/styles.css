@@ -1,3 +1,8 @@
+body{
+  overflow-x: hidden;
+}
+
+
 /* SECTION 1 */
 .background-style {
   background: url("https://images.pexels.com/photos/189333/pexels-photo-189333.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") no-repeat center center fixed;
@@ -8,10 +13,6 @@
 
 #navigation{
   padding-left: 0px;
-  padding-right: 0px;
-}
-.body{
-   padding-left: 0px;
   padding-right: 0px;
 }
 
@@ -167,8 +168,8 @@
 .offer{
   margin-top: 150px;
   text-align: center;
-   padding-left: 150px;
-  padding-right: 150px; 
+  /* padding-left: 150px;
+  padding-right: 150px; */
 }
 .img{
   padding: 30px;
@@ -310,8 +311,8 @@ border: 2px solid black;
 
 .testimonial-sec {
     text-align: center;
-    padding-left: 150px;
-   padding-right: 150px; 
+   /* padding-left: 150px;
+   padding-right: 150px; */
 
 }
 .text-align{
@@ -422,3 +423,4 @@ border-radius: 100px;
     -o-transition: all .2s linear;
     transition: all .2s linear;
 }
+
